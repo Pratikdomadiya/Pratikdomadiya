@@ -16,14 +16,14 @@ Here are some ideas to get you started:
 -->
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-
+<div align="center" width="50">
 <p>Welcome to my page! </br> I'm Pratik, Data Scientist / machine learning developer from  <b>India</b>, currently living in <i class="flaticon-airplane49"></i> <b>Toronto, Canada</b>. </p>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Hello Coders" width="70%"/> <br>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="60%"/><br> 
   
 <p><strong>2nd year BCA student. During day, Assisting
 <br>my father at his shop & Coder at night.
-<br><br> Vibing to : 🎧  </strong></p>
+<br><br> Vibing to : 🎧  </strong></p></div>
 <!-- <h3>Things I code with</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
