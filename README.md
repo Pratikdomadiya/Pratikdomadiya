@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <div align="center" width="50">
 <p>Welcome to my page! </p>
-<!-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Hello Coders" width="70%"/> <br> -->
+<!-- <img src="https://github.com/Pratikdomadiya/Pratikdomadiya/blob/main/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Hello Coders" width="70%"/> <br> -->
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="60%"/><br> 
   
 <p><strong></br> I'm Pratik, Data Scientist / machine learning developer from  <b>India</b>, currently living in <i class="flaticon-airplane49"></i> <b>Toronto, Canada</b>. Vibing to : 🎧  </strong></p></div>
