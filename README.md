@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 
 <div align="center" width="50">
 <p>Welcome to my page! </p>
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=0C0822&background=85FF3001&center=true&vCenter=true&width=435&lines=I+am+Pratik+Domadiya;Passionate+Data+Scientist;Machine+Learning+Engineer" alt="Typing SVG" /></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=0C0822&background=85FF3001&center=true&vCenter=true&width=435&lines=I+am+Pratik+Domadiya;Passionate+Data+Scientist;Data+Engineer+Developer;Machine+Learning+Engineer" alt="Typing SVG" /></a>
 <!-- <img src="https://github.com/Pratikdomadiya/Pratikdomadiya/blob/main/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Hello Coders" width="70%"/> <br> -->
 <img src="https://github.com/Pratikdomadiya/Pratikdomadiya/blob/main/dev-working_rounded.gif?raw=true" href="https://github.com/Pratikdomadiya/" alt="CoDiNg RocKs"  width="60%"/><br> 
   
-<p><strong></br> I'm Pratik, Data Scientist / machine learning developer from  <b>India</b>, currently living in <i class="flaticon-airplane49"></i> <b>Toronto, Canada</b> </strong></p></div>
+<p><strong></br> I'm Pratik, a Data Engineer and Machine Learning developer, currently living in <i class="flaticon-airplane49"></i> <b>Toronto, Canada</b> </strong></p></div>
 <!-- <h3>Things I code with</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
