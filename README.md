@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <div align="center" width="50">
 <p>Welcome to my page! </p>
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=0C0822&background=85FF3001&center=true&vCenter=true&width=435&lines=I+am+Pratik+Domadiya;Passionate+Data+Scientist;Data+Engineer+Developer;Machine+Learning+Engineer" alt="Typing SVG" /></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=0C0822&background=85FF3001&center=true&vCenter=true&width=435&lines=I+am+Pratik+Domadiya;Passionate+Data+Scientist;AWS+Data+Engineer;Machine+Learning+Engineer" alt="Typing SVG" /></a>
 <!-- <img src="https://github.com/Pratikdomadiya/Pratikdomadiya/blob/main/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Hello Coders" width="70%"/> <br> -->
 <img src="https://github.com/Pratikdomadiya/Pratikdomadiya/blob/main/dev-working_rounded.gif?raw=true" href="https://github.com/Pratikdomadiya/" alt="CoDiNg RocKs"  width="60%"/><br> 
   
